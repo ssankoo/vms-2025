@@ -1,8 +1,11 @@
 function Clientes() {
     const clientes = [
+        { nombre: "Assistance", url: "" },
         { nombre: "Back SA", url: "https://back.com.ar/" },
+        { nombre: "Bombas Nir", url: "https://bombasnir.com.ar/" },
         { nombre: "Ciarec", url: "https://web.ciarec.com.ar/" },
-        { nombre: "Fire", url: "https://www.fitetermometros.com.ar/" },
+        { nombre: "Fite", url: "https://www.fitetermometros.com.ar/" },
+        { nombre: "Glan SRL", url: "https://glansrl.net/" },
         { nombre: "Industrias Tecnológicas", url: "https://www.deltagroup.com" },
         { nombre: "Lasarte Hermanos", url: "https://www.lasarte.com.ar/" },
         { nombre: "Microclar", url: "https://www.microclar.com/" },
@@ -10,9 +13,8 @@ function Clientes() {
         { nombre: "Noetec", url: "https://noetec.com.ar/en/home/" },
         { nombre: "Optimaq", url: "https://www.optimaq.net/" },
         { nombre: "Textil Valerio", url: "https://textilvalerio.com.ar/" },
-        { nombre: "Bombas Nir", url: "https://bombasnir.com.ar/" },
-        { nombre: "Glan SRL", url: "https://glansrl.net/" },
-        { nombre: "Assistance", url: "" },
+
+
     ]
 
     return (
