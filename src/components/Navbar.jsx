@@ -9,7 +9,7 @@ function Navbar() {
                 </a>
                 <div className="hidden md:flex space-x-6 font-semibold text-gray-700">
                     <a href="#nosotros" className="hover:text-[#ba3939] transition-colors">NOSOTROS</a>
-                    <a href="#servicios" className="hover:text-[#ba3939] transition-colors">SERVICIOS</a>
+                    <a href="#normas" className="hover:text-[#ba3939] transition-colors">SERVICIOS</a>
                     <a href="#clientes" className="hover:text-[#ba3939] transition-colors">CLIENTES</a>
                     <a href="#contacto" className="hover:text-[#ba3939] transition-colors">CONTACTO</a>
                 </div>
